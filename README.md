@@ -1,4 +1,4 @@
-# font-awesome-icons-list
+# font-awesome-icons-list (4.*)
 
 ## Use
 ```javascript
